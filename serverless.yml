@@ -11,6 +11,8 @@
 #
 # Happy Coding!
 
+app: myapp
+org: davidauzaengineer
 service: hello
 # app and org for use with dashboard.serverless.com
 #app: your-app-name
